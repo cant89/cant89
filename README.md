@@ -1,4 +1,4 @@
-## ![about](https://github.com/cant89/cant89/raw/master/hi.gif)
+## ![about](https://github.com/cant89/cant89/raw/master/ciao.gif)
 
 I am a Senior Front-end developer, living in Berlin and working at Just Eat Takeaway.
 
